@@ -1,6 +1,7 @@
 # Front-End
 First template (Project_RWP)
-This is an HTML and CSS front end basic template, which includes a header, a footer, a landing section and 5 sections.
+
+This is an HTML and CSS front end basic template (design only), which includes a header, a footer, a landing section and 5 sections.
 
 HTML
 Tags used: div,h1,h2,h3,p,i,span,a,img,hr,ul,li
